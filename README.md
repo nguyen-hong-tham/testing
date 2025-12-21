@@ -1,8 +1,9 @@
-# 📋 Tổng Quan Dự Án Testing - Team 11 SGU22
+## Team 11 SGU22
 
-## 👥 Thành Viên Nhóm
-- **Nguyễn Ngọc Nhiên** (3122411140)
-- Đây là đề tài chung của nhóm bán trang sức
+## Thông tin cá nhân 
+** Nguyễn Hồng Thắm - DCT122C3 - 3122411194 **
+
+## 👥 Thành Viên Thuộc Nhóm 11
 - **GitHub Nhóm:** [TestingTeam11-SGU22](https://github.com/nhien-coderdom/TestingTeam11-SGU22)
 
 ---
@@ -183,7 +184,7 @@
 ## 📌 Ghi Chú
 
 - **Đề tài:** Hệ thống bán trang sức (Team 11 SGU22)
-- **Khoá học:** Sinh viên năm 2-3
+- **Khoá học:** Sinh viên năm 4
 - **Nội dung:** Kỹ thuật phân tích, thiết kế và kiểm thử phần mềm
 - **Công cụ sử dụng:** Draw.io (cho các diagram), Word/Excel (cho tài liệu), C++ & Jupyter Notebook (cho lập trình)
 
