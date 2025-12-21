@@ -10,19 +10,63 @@
 
 ## 📁 Cấu Trúc Dự Án và Nội Dung Chi Tiết
 
-### 1. **BT02_PTTKHT_Nguyễn Ngọc Nhiên_3122411140** (Bài Tập 2 - Phân Tích Thiết Kế Hệ Thống)
+### 1. **BT01_Test_Cases** (Bài Tập 1 - Các Trường Hợp Kiểm Thử)
+**Mục đích:** Các bài tập lập trình C++ với Jupyter Notebook
+
+**Các thư mục con:**
+
+#### **lab_3/**
+- `lab_3.cpp` - Mã nguồn C++ bài lab 3
+- `lab_3_auto.cpp` - Phiên bản tự động hóa của bài lab 3
+- `lab_3.ipynb` - Jupyter Notebook cho bài lab 3
+
+#### **lab_a/**
+- `lab_a.cpp` - Mã nguồn C++ bài lab a
+- `input_a.txt` - Dữ liệu đầu vào test
+- `lad_a.ipynb` - Jupyter Notebook cho bài lab a
+
+#### **lab_b/**
+- `lab_b.cpp` - Mã nguồn C++ bài lab b
+- `input_b.txt` - Dữ liệu đầu vào test
+- `lad_b.ipynb` - Jupyter Notebook cho bài lab b
+
+#### **lab_c/**
+- `lab_c.cpp` - Mã nguồn C++ bài lab c
+- `lab_c.ipynb` - Jupyter Notebook cho bài lab c
+- `lab_c` - Tệp thực thi
+- `lab_c.txt` - Dữ liệu hoặc kết quả
+
+#### **lab_d/**
+- `lab_d.cpp` - Mã nguồn C++ bài lab d
+- `lab_d.ipynb` - Jupyter Notebook cho bài lab d
+- `lab_d` - Tệp thực thi
+- `lab_d.txt` - Dữ liệu hoặc kết quả
+
+#### **lab_e/**
+- `lab_e.cpp` - Mã nguồn C++ bài lab e
+- `lab_e.ipynb` - Jupyter Notebook cho bài lab e
+- `lab_e` - Tệp thực thi
+- `lab_e.txt` - Dữ liệu hoặc kết quả
+
+**Nội dung:** Các bài tập lập trình C++ được thực hiện qua Jupyter Notebooks, bao gồm mã nguồn, dữ liệu input, và kết quả output
+
+---
+
+### 2. **BT02_PTTKHT** (Bài Tập 2 - Phân Tích Thiết Kế Hệ Thống)
 **Mục đích:** Phân tích và thiết kế hệ thống thông qua các mô hình nghiệp vụ
 
 **Các tệp tin:**
-- `Lab2_PTTKHT_Nguyễn Ngọc Nhiên_3122411140.docx` - Tài liệu báo cáo chính
-- **Thư mục: Mô hình nghiệp vụ/**
+- `Lab2_PTTKHT.docx` - Tài liệu báo cáo chính
+
+**Thư mục: Lab2_PTTKHT/**
+- **Mô hình nghiệp vụ/**
   - `bai1.drawio` - Mô hình nghiệp vụ bài 1
   - `bai2.drawio` - Mô hình nghiệp vụ bài 2
   - `bai3.drawio` - Mô hình nghiệp vụ bài 3
   - `bai4a.drawio` - Mô hình nghiệp vụ bài 4a
   - `bai5.drawio` - Mô hình nghiệp vụ bài 5
 
-- **Thư mục: Mô hình nghiệp vụ Coolstore/**
+- **Mô hình nghiệp vụ Coolstore/**
   - `cau2.drawio` - Mô hình Coolstore câu 2
   - `cau5.drawio` - Mô hình Coolstore câu 5
   - `cau6.drawio` - Mô hình Coolstore câu 6
@@ -32,19 +76,37 @@
 
 ---
 
-### 2. **BT04_TestPlan_Nguyễn Ngọc Nhiên_3122411140** (Bài Tập 4 - Kế Hoạch Kiểm Thử)
+### 3. **BT03_PTTKHT** (Bài Tập 3 - Phân Tích Thiết Kế Hệ Thống)
+**Mục đích:** Thiết kế kiến trúc hệ thống sử dụng C4 Model
+
+**Các tệp tin:**
+- `BT3_PTTKHT.docx` - Báo cáo chính
+
+**Thư mục: BT3/**
+- `library_system_c4.drawio` - Mô hình C4 của hệ thống thư viện
+- `bai1 (2).drawio` - Diagram bài 1
+- `bai4.drawio` - Diagram bài 4
+- `bai5.drawio` - Diagram bài 5
+- `bai 6 (high-level).drawio` - Diagram bài 6 (high-level architecture)
+- `bai 7.drawio` - Diagram bài 7
+- `bai8.drawio` - Diagram bài 8
+
+**Nội dung:** Thiết kế kiến trúc hệ thống sử dụng mô hình C4 (Context, Container, Component, Code), bao gồm case study hệ thống quản lý thư viện
+
+---
+
+### 4. **BT04_TestPlan** (Bài Tập 4 - Kế Hoạch Kiểm Thử)
 **Mục đích:** Xây dựng kế hoạch kiểm thử chi tiết
 
 **Các tệp tin:**
-- `Lab4_TestPlan_Nguyễn Ngọc Nhiên_3122411140.docx` - Kế hoạch kiểm thử chính
+- `Lab4_TestPlan.docx` - Kế hoạch kiểm thử chính
 - `Test of Understanding Test Plan.docx` - Tài liệu kiểm tra hiểu biết về kế hoạch kiểm thử
-- Các tệp Word tạm thời
 
 **Nội dung:** Phát triển kế hoạch kiểm thử toàn diện, bao gồm các strategy, test scope, test objectives, testing levels, và timeline kiểm thử
 
 ---
 
-### 3. **BT05_KiemThuMienTuongDuong_Nguyen Ngoc Nhien_3122411140** (Bài Tập 5 - Kiểm Thử Miền Tương Đương)
+### 5. **BT05_KiemThuMienTuongDuong** (Bài Tập 5 - Kiểm Thử Miền Tương Đương)
 **Mục đích:** Áp dụng kỹ thuật kiểm thử miền tương đương (Equivalence Partitioning)
 
 **Các tệp tin:**
@@ -57,7 +119,7 @@
 
 ---
 
-### 4. **BT06_KiemThuHopDen2_Nguyen Ngoc Nhien_3122411140** (Bài Tập 6 - Kiểm Thử Hộp Đen 2)
+### 6. **BT06_KiemThuHopDen2** (Bài Tập 6 - Kiểm Thử Hộp Đen 2)
 **Mục đích:** Kỹ thuật kiểm thử hộp đen (Black Box Testing) - Phần 2
 
 **Các tệp tin:**
@@ -71,26 +133,7 @@
 
 ---
 
-### 5. **BT3_PTTKHT_Nguyễn Ngọc Nhiên_3122411140** (Bài Tập 3 - Phân Tích Thiết Kế Hệ Thống)
-**Mục đích:** Thiết kế kiến trúc hệ thống sử dụng C4 Model
-
-**Các tệp tin:**
-- `BT3_PTTKHT_Nguyễn Ngọc Nhiên_3122411140.docx` - Báo cáo chính
-
-**Thư mục: BT3_NguyenNgocNhien_3122411140/**
-- `library_system_c4.drawio` - Mô hình C4 của hệ thống thư viện
-- `bai1 (2).drawio` - Diagram bài 1
-- `bai4.drawio` - Diagram bài 4
-- `bai5.drawio` - Diagram bài 5
-- `bai 6 (high-level).drawio` - Diagram bài 6 (high-level architecture)
-- `bai 7.drawio` - Diagram bài 7
-- `bai8.drawio` - Diagram bài 8
-
-**Nội dung:** Thiết kế kiến trúc hệ thống sử dụng mô hình C4 (Context, Container, Component, Code), bao gồm case study hệ thống quản lý thư viện
-
----
-
-### 6. **BT7_KiemThuQuiTrinh_Nguyen Ngoc Nhien_3122411140** (Bài Tập 7 - Kiểm Thử Quy Trình)
+### 7. **BT7_KiemThuQuiTrinh** (Bài Tập 7 - Kiểm Thử Quy Trình)
 **Mục đích:** Kiểm thử các quy trình và luồng công việc
 
 **Các tệp tin:**
@@ -101,13 +144,13 @@
 
 ---
 
-### 7. **DeTai_GiaiDoan1_Nguyen NGoc Nhien_3122411140** (Đề Tài Giai Đoạn 1)
+### 8. **DeTai_GiaiDoan1** (Đề Tài Giai Đoạn 1)
 **Mục đích:** Đề tài khóa học giai đoạn 1 - Phân tích yêu cầu
 
 **Các tệp tin:**
 - `DA_Testing.docx` - Tài liệu đề tài kiểm thử
 
-**Thư mục: chuong1_NguyenNgocNhien_3122411140/**
+**Thư mục: chuong1/**
 - `Conceptual Model.drawio` - Mô hình khái niệm của hệ thống
 - `tổng quát (1).drawio` - Sơ đồ tổng quát hệ thống
 
@@ -115,7 +158,7 @@
 
 ---
 
-### 8. **lab_1** (Các Bài Lab Lập Trình)
+### 9. **BT01_Test_Cases** (Các Bài Lab Lập Trình)
 **Mục đích:** Các bài tập lập trình C++ với Jupyter Notebook
 
 **Các thư mục con:**
@@ -161,14 +204,14 @@
 
 | Loại Bài Tập | Thư Mục | Mục Đích |
 |---|---|---|
+| **BT01** | Test Cases | Các bài tập C++ với Jupyter Notebook |
 | **BT02 - Lab 2** | Phân Tích Thiết Kế HT | Thiết kế mô hình nghiệp vụ (Coolstore) |
+| **BT03** | Phân Tích Thiết Kế HT | C4 Model Architecture Design |
 | **BT04 - Lab 4** | Kế Hoạch Kiểm Thử | Xây dựng Test Plan chi tiết |
 | **BT05** | Kiểm Thử Miền Tương Đương | Equivalence Partitioning Testing |
 | **BT06** | Kiểm Thử Hộp Đen 2 | Decision Table & State Transition Testing |
-| **BT3** | Phân Tích Thiết Kế HT | C4 Model Architecture Design |
-| **BT7** | Kiểm Thử Quy Trình | Test Design Workflow |
+| **BT07** | Kiểm Thử Quy Trình | Test Design Workflow |
 | **Đề Tài Giai Đoạn 1** | Phân Tích Yêu Cầu | Conceptual Model & System Design |
-| **Lab 1** | Lập Trình C++ | Các bài tập C++ với Jupyter Notebook |
 
 ---
 
